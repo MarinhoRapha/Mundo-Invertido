@@ -12,6 +12,6 @@
 
 </br>
 <div align="center">
-<img width="450px" height="350px" src="https://github.com/user-attachments/assets/af499db1-76d3-456a-9ec5-317d5cd23bc1"> 
-<img width="450px" height="350px" src="https://github.com/user-attachments/assets/a167f1c4-2a88-455d-ac10-6e8926279de0"> 
+<img width="400px" height="280px" src="https://github.com/user-attachments/assets/af499db1-76d3-456a-9ec5-317d5cd23bc1"> 
+<img width="400px" height="280px" src="https://github.com/user-attachments/assets/a167f1c4-2a88-455d-ac10-6e8926279de0"> 
 </div>
